@@ -1,4 +1,4 @@
-package problems.easy._0001_remove_duplicates_from_sorted_array;
+package problems.easy._01_array._0001_remove_duplicates_from_sorted_array;
 
 public class SolutionToRemoveDuplicates {
     public static void main(String[] args) {

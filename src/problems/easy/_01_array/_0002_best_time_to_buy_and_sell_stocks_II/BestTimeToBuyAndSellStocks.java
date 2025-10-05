@@ -1,4 +1,4 @@
-package problems.easy._0002_best_time_to_buy_and_sell_stocks_II;
+package problems.easy._01_array._0002_best_time_to_buy_and_sell_stocks_II;
 
 public class BestTimeToBuyAndSellStocks {
     public static void main(String[] args) {
